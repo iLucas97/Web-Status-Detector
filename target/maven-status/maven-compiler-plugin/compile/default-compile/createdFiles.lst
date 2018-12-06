@@ -1,0 +1,15 @@
+it\ilucas\beans\ServerBean.class
+it\ilucas\utils\MyUtils.class
+it\ilucas\utils\Utils.class
+it\ilucas\conf\ConfigurationAppl.class
+it\ilucas\models\ServerStatusModelBuilder.class
+it\ilucas\beans\HelloWorldBean.class
+it\ilucas\checker\Servers.class
+it\ilucas\controllers\HelloWorldController.class
+it\ilucas\checker\ServerCheckerImpl.class
+it\ilucas\models\ServerStatusModel.class
+it\ilucas\main\CheckStatusApp.class
+it\ilucas\beans\ServerBeanBuilder.class
+it\ilucas\controllers\ServerCheckerController.class
+it\ilucas\checker\ServerChecker.class
+it\ilucas\utils\Constants.class
