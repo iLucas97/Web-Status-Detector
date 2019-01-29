@@ -1,4 +1,4 @@
 # Web-Status-Detector
-Little webservice that call websities to verify the status
+Little webservice that call websities to verify their status.
 # Install
-Import the project in eclipse, using java 1.8
+Import the project in eclipse, using java 1.8.
